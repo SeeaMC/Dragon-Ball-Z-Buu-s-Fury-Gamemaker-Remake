@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"msc_outdoor_adventures",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":110.13225,
+  "exportDir":"",
+  "name":"msc_outdoor_adventures",
+  "parent":{
+    "name":"Areas",
+    "path":"folders/Sounds/Musics/Areas.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"msc_outdoor_adventures.mp3",
+  "volume":1.0,
+}
