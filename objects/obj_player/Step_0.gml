@@ -1,5 +1,10 @@
 sprite = form+char
 
+if keyboard_check_released(vk_control)
+{
+	obj_game.impact = true
+}
+
 if keyboard_check_pressed(vk_f3)
 {
 	if debug = 1
@@ -57,6 +62,7 @@ if (_hspd != 0 || _vspd != 0) && move = 1
 	{
 		dir = 2
 	}
+	
 	sprite_index = asset_get_index("spr_"+sprite+"_"+wspd+"_"+look)
 	yadd = 0
 	xadd = 0

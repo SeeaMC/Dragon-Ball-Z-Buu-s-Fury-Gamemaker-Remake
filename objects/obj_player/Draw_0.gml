@@ -1,3 +1,4 @@
+draw_sprite(spr_shadow,-1,x,y)
 draw_self()
 
 if debug = 1
@@ -9,3 +10,4 @@ if debug = 1
 	draw_text(x, y-85, xadd)
 	draw_text(x, y-95, yadd)
 }
+
