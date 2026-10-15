@@ -1,6 +1,6 @@
 if impact = true {
 	
-	shader_set(Shader1)
+	shader_set(Impact)
 	impact_timer -=1
 	
 	if impact_timer < 0

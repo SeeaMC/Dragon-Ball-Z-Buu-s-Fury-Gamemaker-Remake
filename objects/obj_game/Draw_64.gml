@@ -8,7 +8,7 @@ if (impact)
     for (var i = 0; i < 40; i++)
     {
         var ang = i * (360 / 40) + random_range(-4, 4);
-        var d1 = random_range(100, 300);   
+        var d1 = random_range(300, 600);   
         var d2 = 1500;
         var largura = random_range(0.5, 2); 
         var x1 = cx + lengthdir_x(d1, ang);

@@ -1,7 +1,7 @@
 {
   "$GMShader":"",
-  "%Name":"Shader1",
-  "name":"Shader1",
+  "%Name":"Impact",
+  "name":"Impact",
   "parent":{
     "name":"Shaders",
     "path":"folders/Shaders.yy",
