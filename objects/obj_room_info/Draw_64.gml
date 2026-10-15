@@ -1,4 +1,4 @@
-if (draw == 1)
+if (draw)
 {
     var _gw = display_get_gui_width();
     var _gh = display_get_gui_height();

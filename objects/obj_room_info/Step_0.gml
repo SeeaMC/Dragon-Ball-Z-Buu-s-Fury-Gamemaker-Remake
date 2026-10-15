@@ -1,4 +1,4 @@
-if move = 1
+if move = true
 {
 	size -= 0.3
 	y += 1.7
